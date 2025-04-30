@@ -130,20 +130,19 @@ jobs:
           ACCOUNT_PASSWORD=$(grep '^Account Password:' "$TEMP_OUTPUT" | sed 's/^Account Password: //' || true)
 
           # Prepare the content for THIS run in a temporary file
-          NEW_ENTRY_FILE="new_entry.md.tmp"
-          # Use the desired date format
-          CURRENT_DATETIME_UTC=$(date -u '+%A, %d %B %Y, %H:%M:%S UTC')
+                    NEW_ENTRY_FILE="new_entry.md.tmp"
+          CURRENT_DATETIME_IRAN=$(TZ='Asia/Tehran' date '+%A, %d %B %Y, %H:%M Tehran (UTC+3:30).')
 
           # Start building the new entry
           {
-            echo "# Generated ON: ${CURRENT_DATETIME_UTC}"
-            echo "" # Blank line
+            echo "# Generated On: ${CURRENT_DATETIME_IRAN}"
+            echo ""
             echo "> [!CAUTION]"
             echo "> Triggered by: ${{ github.event_name }}"
-            echo "" # Blank line
-            echo "<br><br>" # Extra spacing like the example
-            echo "" # Blank line
-          } > "$NEW_ENTRY_FILE" # Overwrite or create the temp file
+            echo ""
+            echo "<br><br>"
+            echo ""
+          } > "$NEW_ENTRY_FILE"
 
           # 1. Add VPN Codes Section (if VPN codes exist)
           if [[ -n "$VPN_CODES_LIST" ]]; then
