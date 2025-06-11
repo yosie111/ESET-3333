@@ -1,34 +1,4 @@
-# Generated On: Tuesday, 10 June 2025, 21:37 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 15:38 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 09:37 Tehran (UTC+3:30).
+# Generated On: Wednesday, 11 June 2025, 03:52 Tehran (UTC+3:30).
 
 > [!CAUTION]
 > Triggered by: schedule
@@ -42,16 +12,16 @@
 > Each code is valid for login on only one device.
 
 ```ruby
-NZYRLVX6D2
-WJK51C9QGL
-MEJFKISIJA
-1LTVY0BTTZ
-07PK4EGAMP
-TTKXPHNPDI
-7AYISJR159
-ODW7G2RPFL
-TTDZ9HYK66
-MPAWT0F41O
+EJMMOWV3JY
+8C3MEAIYLR
+IHZ88X6NJC
+UD01UMZM0N
+0KNVJLLF9P
+DCXXLK5QHK
+E4E7FUOSP1
+Q4QAB4ZV4J
+8A1FJBCZJD
+LFS5Z7UGDY
 ```
 
 <br>
@@ -59,11 +29,11 @@ MPAWT0F41O
 ### ESET SECURITY LICENSE
 
 **Name:** ESET Small Business Security
-**Expiry:** 10.07.2025
+**Expiry:** 11/07/2025
 **License Key:**
 
 ```POV-Ray SDL
-6U36-XJUR-MPGH-JXBW-5A5D
+SBB3-XAUS-9FP3-6TD7-CXD8
 ```
 
 <br>
@@ -73,77 +43,13 @@ MPAWT0F41O
 **Email:**
 
 ```CSS
-dionicio.vedaant@fsitip.com
+remo.majed@fsitip.com
 ```
 
 **Password:**
 
 ```POV-Ray SDL
-f)N#ZMR,1)RKwU#3S{.
-```
-
-<br>
-
-### All about ESET VPN
-
-[READ HERE](https://t.me/F_NiREvil/2113)
-
----
-
-<br><br>
-
-# Generated On: Tuesday, 10 June 2025, 03:51 Tehran (UTC+3:30).
-
-> [!CAUTION]
-> Triggered by: schedule
-
-<br><br>
-
-### ESET VPN ACCESS CODES
-
-> [!NOTE]
-> The access codes for ESET VPN will expire in 24 hours.
-> Each code is valid for login on only one device.
-
-```ruby
-A37HNXVR7E
-HNLVBKH66F
-KVJMW6TICC
-KQRTWZLA67
-TUOLHN7AMC
-52WEM4VIC6
-J820TSYTGB
-00EJHP8PMY
-R4MFGDTST7
-LV82T0UDS3
-```
-
-<br>
-
-### ESET SECURITY LICENSE
-
-**Name:** ESET Small Business Security
-**Expiry:** 10.07.2025
-**License Key:**
-
-```POV-Ray SDL
-8PGC-XD8K-HCVJ-RVK5-PD73
-```
-
-<br>
-
-### ESET ACCOUNT
-
-**Email:**
-
-```CSS
-zedekiah.adham@fsitip.com
-```
-
-**Password:**
-
-```POV-Ray SDL
-lH{qi>&zFrRt1i*3_}
+5E6xm*{*5Zl0"S^a
 ```
 
 <br>
