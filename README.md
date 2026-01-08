@@ -1,3 +1,18 @@
+# Generated On: Friday, 09 January 2026, 02:38 Tehran (UTC+3:30).
+
+> [!CAUTION]
+> Triggered by: workflow_dispatch
+
+<br><br>
+
+### All about ESET VPN
+
+[READ HERE](https://t.me/F_NiREvil/2113)
+
+---
+
+<br><br>
+
 # Generated On: Thursday, 08 January 2026, 21:37 Tehran (UTC+3:30).
 
 > [!CAUTION]
