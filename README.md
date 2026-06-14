@@ -1,3 +1,18 @@
+# Generated On: Sunday, 14 June 2026, 16:13 Tehran (UTC+3:30).
+
+> [!CAUTION]
+> Triggered by: schedule
+
+<br><br>
+
+### All about ESET VPN
+
+[READ HERE](https://t.me/F_NiREvil/2113)
+
+---
+
+<br><br>
+
 # Generated On: Sunday, 14 June 2026, 11:10 Tehran (UTC+3:30).
 
 > [!CAUTION]
